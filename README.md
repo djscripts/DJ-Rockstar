@@ -6,4 +6,4 @@ Rockstar Editor script by commands
 
 
 
--ksahdjkashdas
+- ksahdjkashdas
